@@ -1,0 +1,66 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Multimedia Website</title>  
+    <link rel="stylesheet" href="styles.css">
+  <!-- dddd--></head>
+   <div class="dd">
+    <button class="dd-btn">  MENU </button>
+    <div class="dd-content">
+      <a href="#gallery"> GALLERY</a>
+      <a href="#video"> VIDEO</a>
+      <a href="#about"> ABOUT US </a>
+     <a href="#"> OUR SERVICE</a>
+    </div>
+  </div>
+<!-- Navigation bar -->
+    <nav class="navbar">
+      <b>  <h1>WELCOM TO GIDOLE</h1></b></html>
+      </nav></head></head>
+  
+    <section id="gallery" class="section">
+        <h2>Image Gallerry</h2>
+        <div class="gallery">
+          <img src="images/city.jpg" alt="Image 3">
+            <img src="images/road.jpg "alt="Image 1">
+            <img src="images/snow.jpg" alt="Image 2">
+            <img src="images/now.jpg" alt="Image 3">
+        </div>
+    </section>
+
+    <section id="video" class="section">
+        <h2>Video Section</h2>
+        <video controls>
+          <video src="images/video.mp4" type="video/mp4" >
+            Your browser does not support the video tag.
+          </video></video>
+          </section>
+
+
+
+    <!-- Main content section -->
+    <main>
+        <section id="about" class="content">
+            <h2>About Us</h2>
+            <p>እኛ GIDOLE ምንዋሰነው በ 4 ብህር ብሄረሴቦች ስሆን ምንገኘው በ SOUTHERN ETHIOPIA ውስጥ ነው ።!</p>
+        </section>
+
+        <section id="services" class="content">
+            <h2>Our Services</h2>
+            <p>የ GIDOLE  ባህል ማስታወቂያ WEBSITE  የፍቅር ሀገር </p>
+        </section>
+    </main>
+
+      <section>
+
+    <footer>
+        <p>© 2024 GIDOLE Website. All rights reserved.
+      <br>🔰DEVELOPER sitota bizuneh afiya </br></p>
+      
+    </footer>
+
+    <script src="script.js"></script>
+      </section></section>
+</body>
+</html>
